@@ -41,7 +41,7 @@ A Spring Boot application simulating a loan origination system with multithreade
 
 1. **Clone the Repository**
 
-
+git clone https://github.com/udaramrdc/Turno-Springboot-Assignment.git
 cd turno-loan-origination
 ./mvnw spring-boot:run
 Or via IDE: Run LosApplication.java
